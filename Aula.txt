@@ -1,0 +1,8 @@
+Comandos :
+
+git branch = Verificar mains/features
+
+git checkout main = trocar pra main
+git checkout feature/login = trocar pra feature
+
+OBS: Fazer commit antes de trocar os coisas
